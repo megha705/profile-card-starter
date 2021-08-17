@@ -1,0 +1,19 @@
+/* Subscribe to Programmer Cloud :-) */
+@import url("https://fonts.googleapis.com/css?family=DM+Sans:400,500|Jost:400,500,600&display=swap");
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #2b2c48;
+  font-family: "Jost", sans-serif;
+  background-image: url(../img/hero.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+}
